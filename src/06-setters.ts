@@ -55,7 +55,7 @@ console.log(myDate.printFormat());
 const myDate2 = new MyDate(2000);
 console.log(myDate2.printFormat());
 //setter
-myDate2.month = 78;
+myDate2.month = 5;
 //getter
 console.log(myDate2.day);
 console.log(myDate2.isLeapYear); //this is a method to injected any code
